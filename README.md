@@ -3,7 +3,7 @@
 Simple practice project  Selenium automation test for facebook registration, without performance check. 
 
 # Gif
-
+![](https://github.com/FahirL/FacebookRegistration-Selenium/blob/master/ftselenium.gif)
 
 # selenium-webdriver
 
